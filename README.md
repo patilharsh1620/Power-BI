@@ -32,7 +32,7 @@ The dataset (`FinSight.csv`) contains financial transaction data, including reve
 
 ## 🔗 Useful Links
 - [Power BI Download](https://powerbi.microsoft.com/)
-- [GitHub Repository]([YOUR_GITHUB_REPO_LINK](https://github.com/patilharsh1620/Power-BI))
+- [GitHub Repository]( YOUR_GITHUB_REPO_LINK](https://github.com/patilharsh1620/Power-BI )
 
 ## 👨‍💻 Author
 **Harsh Patil**  
